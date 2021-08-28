@@ -1,0 +1,40 @@
+{
+	"type": "origins:multiple",
+    "resource": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 7,
+        "hud_render": {
+		    "should_render": true,
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_points_01.png",
+            "bar_index": 4
+        }
+    },
+	
+	"over_time": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+		    "type": "origins:change_resource",
+		    "resource": "*:valorant/charges_resource",
+		    "change": 1
+        },
+        "interval": 200
+	},
+	
+	
+	"death": {
+        "type": "origins:action_on_callback",
+        "entity_action_chosen": {
+            "type": "origins:change_resource",
+            "resource": "*:valorant/charges_resource",
+            "change": -100
+        },
+        "entity_action_respawned": {
+            "type": "origins:change_resource",
+            "resource": "*:valorant/charges_resource",
+            "change": -100
+        },
+        "execute_chosen_when_orb": true
+	},
+	"hidden": true
+}

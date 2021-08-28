@@ -1,0 +1,10 @@
+{
+	"powers": [
+        "valorant:valorant/charges"
+    ],
+	"icon": "origins:orb_of_origin",
+	"order": 10,
+	"impact": 3,
+	"name": "Valorant",
+	"description": "The powers of different Valorant characters!"
+}
