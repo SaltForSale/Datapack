@@ -1,0 +1,18 @@
+{
+	"replace": false,
+  "order": 10,
+  "origins": [
+  {
+    "condition": {
+      "type": "origins:origin",
+      "origin": "valorant:valorant",
+      "layer": "origins:origin"
+    },
+    "origins": [
+      "valorant:brimstone",
+      "valorant:jett"
+    ]
+  }
+ ]
+}
+
