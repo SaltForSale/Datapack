@@ -1,5 +1,7 @@
 {
-	"powers": [],
+	"powers": [
+		"valorant:jett/drift"
+	],
 	"icon": "minecraft:diamond_sword",
 	"order": 10,
 	"impact": 3,
