@@ -1,10 +1,14 @@
 {
 	"powers": [
-		"valorant:jett/drift"
+		"valorant:jett/drift",
+                "valorant:jett/cloud_burst",
+                "valorant:jett/updraft",
+                "valorant:jett/tailwind",
+                "valorant:jett/blade_storm",
 	],
-	"icon": "minecraft:diamond_sword",
+	"icon": "minecraft:string",
 	"order": 10,
-	"impact": 3,
+	"impact": 2,
 	"name": "Jett",
 	"description": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can.  She runs circles around every skirmish, cutting enemies before they even know what hit them."
 }

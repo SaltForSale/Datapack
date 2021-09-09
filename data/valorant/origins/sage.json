@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"valorant:sage/barrier_orb",
+                "valorant:sage/slow_orb",
+                "valorant:sage/healing_orb",
+                "valorant:sage/resurrection",
+	],
+	"icon": "minecraft:heart_of_the_sea",
+	"order": 10,
+	"impact": 2,
+	"name": "Sage",
+	"description": "The stronghold of China, Sage creates safety for herself and her team wherever she goes.  Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight."
+}

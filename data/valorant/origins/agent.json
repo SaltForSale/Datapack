@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"valorant:agent/desc",
+	],
+	"icon": "origins:orb_of_origin",
+	"order": 10,
+	"impact": 2,
+	"name": "Valorant Agent",
+	"description": "More than swords and bows, you'll choose an Agent with adaptive, swift, and lethal abilities that create opprotunities to let your gameplay shine.  No two Agents play alike, just as no two highlight reels will look the same."
+}

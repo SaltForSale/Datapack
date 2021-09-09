@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"valorant:kayo/frag_ment",
+                "valorant:kayo/flash_drive",
+                "valorant:kayo/zero_point",
+                "valorant:kayo/null_cmd",
+	],
+	"icon": "minecraft:iron_ingot",
+	"order": 10,
+	"impact": 2,
+	"name": "KAY/O",
+	"description": "KAY/O is a machine of war built for a single purpose: neutralizing radiants.  His power to suppress enemy abilities cripples his opponents' capacity to fight back, securing him and his allies the ultimate edge."
+}

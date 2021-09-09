@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"valorant:phoenix/firepower",
+                "valorant:phoenix/blaze",
+                "valorant:phoenix/curveball",
+                "valorant:phoenix/hot_hands",
+                "valorant:phoenix/run_it_back",
+	],
+	"icon": "minecraft:blaze_powder",
+	"order": 10,
+	"impact": 2,
+	"name": "Phoenix",
+	"description": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare.  Whether he's got backup or not, he'll rush into a fight on his own terms."
+}

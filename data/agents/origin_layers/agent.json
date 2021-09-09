@@ -1,0 +1,19 @@
+{
+	"replace": false,
+  "origins": [
+  {
+    "condition": {
+      "type": "origins:origin",
+      "origin": "valorant:agent",
+      "layer": "origins:origin"
+    },
+    "origins": [
+      "valorant:jett",
+	  "valorant:phoenix",
+	  "valorant:kayo",
+	  "valorant:sage",
+          "valorant:omen"
+    ]
+  }
+ ]
+}
