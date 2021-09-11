@@ -3,7 +3,7 @@
 		"valorant:kayo/frag_ment",
                 "valorant:kayo/flash_drive",
                 "valorant:kayo/zero_point",
-                "valorant:kayo/null_cmd",
+                "valorant:kayo/null_cmd"
 	],
 	"icon": "minecraft:iron_ingot",
 	"order": 10,

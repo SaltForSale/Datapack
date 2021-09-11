@@ -8,11 +8,11 @@
       "layer": "origins:origin"
     },
     "origins": [
-      "valorant:jett",
+    "valorant:jett",
 	  "valorant:phoenix",
 	  "valorant:kayo",
 	  "valorant:sage",
-          "valorant:omen"
+    "valorant:omen"
     ]
   }
  ]

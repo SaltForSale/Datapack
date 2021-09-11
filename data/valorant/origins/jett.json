@@ -4,7 +4,7 @@
                 "valorant:jett/cloud_burst",
                 "valorant:jett/updraft",
                 "valorant:jett/tailwind",
-                "valorant:jett/blade_storm",
+                "valorant:jett/blade_storm"
 	],
 	"icon": "minecraft:string",
 	"order": 10,

@@ -3,7 +3,7 @@
 		"valorant:sage/barrier_orb",
                 "valorant:sage/slow_orb",
                 "valorant:sage/healing_orb",
-                "valorant:sage/resurrection",
+                "valorant:sage/resurrection"
 	],
 	"icon": "minecraft:heart_of_the_sea",
 	"order": 10,
