@@ -1,6 +1,8 @@
 {
 	"powers": [
 		"valorant:agent/desc",
+		"valorant:agent/charges",
+		"valorant:agent/hatless"
 	],
 	"icon": "origins:orb_of_origin",
 	"order": 10,
